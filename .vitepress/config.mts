@@ -22,7 +22,12 @@ export default defineConfig({
       },
       {
         text: "GPT",
-        items: [{ text: "GPT使用指南", link: "/gpt-intro" }],
+        items: [
+          { text: "BeWildCard 升级 GPT4", link: "/gpt/gpt-plus" },
+          { text: "GPT使用指南", link: "/gpt/gpt-intro" },
+          { text: "AI副业赚钱案例", link: "/gpt/gpt-money" },
+          { text: "GPTs教程资源", link: "/gpt/gpts" },
+        ],
         docFooterText: "test",
       },
     ],
@@ -40,6 +45,11 @@ export default defineConfig({
 
     search: {
       provider: "local",
+    },
+
+    outline: {
+      level: "deep",
+      label: "目录",
     },
   },
   markdown: {

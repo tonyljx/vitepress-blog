@@ -11,8 +11,8 @@ hero:
     alt: chatgpt
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: chatgpt
+      link: /gpt/gpt-plus
     - theme: alt
       text: API Examples
       link: /api-examples
