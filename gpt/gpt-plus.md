@@ -1,7 +1,7 @@
 # bewildcard 介绍
 
 :::warning URL⭐️
-感兴趣的朋友可以通过这个链接进行开通 GPT4 以及相关服务 <https://bewildcard.com/>
+感兴趣的朋友可以通过这个链接进行开通 GPT4 以及相关服务 <https://bewildcard.com/i/TONY66>
 :::
 
 [[toc]]
@@ -12,7 +12,7 @@
 
 这是一个由国人开发的，通过海外虚拟信用卡进行充值的平台，解决海外充值难的问题
 
-⭐️ [WildCard | 一分钟开卡，轻松订阅海外软件服务 (bewildcard.com)](https://bewildcard.com/)
+⭐️ [WildCard | 一分钟开卡，轻松订阅海外软件服务 (https://bewildcard.com/i/TONY66)](https://bewildcard.com/i/TONY66)
 
 ![image-20240124014731638](bewildcard.assets/image-20240124014731638.png)
 

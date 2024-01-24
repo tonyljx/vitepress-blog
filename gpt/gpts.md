@@ -38,3 +38,5 @@ GPTs 是 openai 官方推出的, 可以结合更多的工具, 进行某个领域
 这里给出一个仓库, 可以参考别人制作的 GPTs 所用到的指令：[https://github.com/linexjlin/GPTs/tree/main](https://github.com/linexjlin/GPTs/tree/main)
 
 这里列出仓库的一部分 GPTs Prompt
+
+![Alt text](img/gpts-repo.png)
