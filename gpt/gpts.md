@@ -38,14 +38,3 @@ GPTs 是 openai 官方推出的, 可以结合更多的工具, 进行某个领域
 这里给出一个仓库, 可以参考别人制作的 GPTs 所用到的指令：[https://github.com/linexjlin/GPTs/tree/main](https://github.com/linexjlin/GPTs/tree/main)
 
 这里列出仓库的一部分 GPTs Prompt
-
-- [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
-- [Istio Guru](./prompts/IstioGuru.md) by Rohit Ghumare
-- [BabyAgi.txt](./prompts/BabyAgi.txt.md) by Nicholas Dobos
-- [Take Code Captures](./prompts/Take%20Code%20Captures.md) by oscaramos.dev
-- [Diffusion Master](./prompts/Diffusion%20Master.md) by RUSLAN LICHENKO
-- [YT transcriber](./prompts/YT%20transcriber.md) by gpt.swyx.io
-- [科技文章翻译](./prompts/科技文章翻译.md) by Junmin Liu
-- [genz 4 meme](./prompts/genz%204%20meme.md) by ChatGPT
-- [Math Mentor](./prompts/Math%20Mentor.md) by ChatGPT
-- [Interview Coach](./prompts/Interview%20Coach.md) by Danny Graziosi

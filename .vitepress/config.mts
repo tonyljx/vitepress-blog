@@ -52,6 +52,11 @@ export default defineConfig({
       level: "deep",
       label: "目录",
     },
+
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2024-present RunningPig",
+    },
   },
   markdown: {
     lineNumbers: true,
