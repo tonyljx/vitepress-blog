@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
+      { text: "主页", link: "/" },
       { text: "开通Plus会员", link: "/gpt/gpt-plus" },
     ],
 
@@ -71,4 +71,18 @@ export default defineConfig({
   sitemap: {
     hostname: "https://gpthanghai.com/",
   },
+  head: [
+    // analytics
+    [
+      "script",
+      {
+        async: "",
+        defer: "",
+        // "data-website-id": `${process.env.UMAMI_WEBSITE_ID || ""}`,
+        // src: `${process.env.VITE_UMAMI_ENDPOINT || ""}`,
+        "data-website-id": "2189df23-1170-4efd-8b63-b4d88049ce96",
+        src: "https://umami.runningpig.top/script.js",
+      },
+    ],
+  ],
 });
