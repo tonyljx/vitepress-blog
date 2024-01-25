@@ -15,18 +15,21 @@ hero:
       link: /gpt/gpt-plus
     - theme: alt
       text: 博客配置
-      link: /api-examples
-
+      link: /blog/
 features:
   - icon: ⚡️
-    title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: GPT
+    details: 了解GPT的原理, 使用GPT, 以及开通会员
+    link: /gpt/
+    linkText: 了解GPT
   - icon: 🖖
-    title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: 博客搭建
+    details: 搭建一个实用且好看的博客
+    link: /blog/
+    linkText: 博客搭建
   - icon: 🛠️
-    title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: 技术/副业
+    details: 记录工作中遇到的技术问题以及技术变现副业
 ---
 
 <home></home>

@@ -21,12 +21,12 @@ watch(
 <template>
   <Layout>
 
-    <template #doc-before>
-      <MyComponent />
-    </template>
+
 
     <template #doc-after class="mt-10">
       <Comment :key="num" />
     </template>
   </Layout>
 </template>
+
+ 
