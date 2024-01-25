@@ -27,10 +27,13 @@ const giscusConfig: GiscusProps = reactive({
   reactionsEnabled: "1",
   emitMetadata: "0",
   inputPosition: "bottom",
-  // theme: isDark.value ? "dark" : "light", // 需要写在页面里面才会有响应式
+  theme: isDark.value ? "dark" : "light", // 需要写在页面里面才会有响应式
   lang: "zh-CN",
   loading: "lazy",
 });
+
+// console.log("isdark " + isDark.value);
+
 
 const showComment = ref(true);
 watch(
