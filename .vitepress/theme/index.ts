@@ -13,14 +13,16 @@ import "uno.css";
 import busuanzi from "busuanzi.pure.js";
 import { h } from "vue";
 import MyComponent from "./components/MyComponent.vue";
-import Discussion from "./components/Discussion.vue";
+import Comment from "./components/Comment.vue";
+// import Discussion from "./components/Discussion.vue";
 export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
       "doc-before": () => h(MyComponent),
-      "doc-after": () => h(Discussion),
+      "doc-after": () => h(Comment),
+      // "doc-after": () => h(Discussion),
     });
   },
   enhanceApp({ app, router, siteData }) {
