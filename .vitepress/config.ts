@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 import UnoCSS from "unocss/vite";
-
+import taskLists from "markdown-it-task-checkbox";
+// import task from "markdown-it-task-lists";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "GPT航海",
@@ -11,6 +12,10 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "开通Plus会员", link: "/gpt/gpt-plus" },
+      {
+        text: "统计",
+        link: "https://umami.runningpig.top/share/CouKtS2S83QRdKdO/gpthanghai",
+      },
     ],
 
     sidebar: [
@@ -63,6 +68,18 @@ export default defineConfig({
   },
   markdown: {
     lineNumbers: true,
+    config: (md) => {
+      // md.use(task, { label: true, marker: false });
+      md.use(taskLists, {
+        // https://www.npmjs.com/package/markdown-it-task-checkbox
+        disabled: true,
+        divWrap: false,
+        divClass: "checkbox",
+        idPrefix: "cbx_",
+        ulClass: "task-list",
+        liClass: "task-list-item",
+      });
+    },
   },
   lastUpdated: true,
   vite: {
@@ -72,6 +89,7 @@ export default defineConfig({
     hostname: "https://gpthanghai.com/",
   },
   head: [
+    ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     // analytics
     [
       "script",

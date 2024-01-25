@@ -2,8 +2,9 @@
   <data-panel></data-panel>
 
 
-  <div class="container px-[64px] mx-auto">
-    <h2 class="mt-10 mb-3 text-xl font-semibold">最近文章</h2>
+  <div class="mx-auto container max-w-[1152px] min-h-[32px]  w-full rounded-[8px] p-[6px] mt-6">
+    <!-- bg-[var(--vp-c-bg-soft)] -->
+    <h2 class="mb-3 text-xl font-semibold">最近文章</h2>
     <div class="flex flex-col gap-lg ">
       <!-- panel -->
 
