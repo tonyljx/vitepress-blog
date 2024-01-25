@@ -1,3 +1,8 @@
+---
+# 用于设置在首页展示的 精选文章，值越大展示越靠前
+sticky: 1
+---
+
 # bewildcard 介绍
 
 :::warning URL⭐️

@@ -14,7 +14,7 @@ hero:
       text: chatgpt
       link: /gpt/gpt-plus
     - theme: alt
-      text: API Examples
+      text: 博客配置
       link: /api-examples
 
 features:
@@ -28,3 +28,9 @@ features:
     title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
+<home></home>
+
+<script lang="ts" setup>
+import home from './.vitepress/theme/components/Home.vue'
+</script>

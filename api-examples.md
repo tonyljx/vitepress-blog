@@ -18,12 +18,15 @@ const { theme, page, frontmatter } = useData()
 ## Results
 
 ### Theme Data
+
 <pre>{{ theme }}</pre>
 
 ### Page Data
+
 <pre>{{ page }}</pre>
 
 ### Page Frontmatter
+
 <pre>{{ frontmatter }}</pre>
 ```
 
@@ -31,17 +34,26 @@ const { theme, page, frontmatter } = useData()
 import { useData } from 'vitepress'
 
 const { site, theme, page, frontmatter } = useData()
+
+ 
+const sidebarItems = theme.value.sidebar.map(item => item.items).flat();
+// console.log(sidebarItems)
+//  const items = theme.value.sidebar.flatMap(section => section.items);
+ 
 </script>
 
 ## Results
 
 ### Theme Data
+
 <pre>{{ theme }}</pre>
 
 ### Page Data
+
 <pre>{{ page }}</pre>
 
 ### Page Frontmatter
+
 <pre>{{ frontmatter }}</pre>
 
 ## More
