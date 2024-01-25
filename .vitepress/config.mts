@@ -68,4 +68,7 @@ export default defineConfig({
   vite: {
     plugins: [UnoCSS()],
   },
+  sitemap: {
+    hostname: "https://gpthanghai.com/",
+  },
 });

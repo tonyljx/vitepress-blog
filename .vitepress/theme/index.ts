@@ -12,10 +12,6 @@ import {
 import "uno.css";
 import busuanzi from "busuanzi.pure.js";
 import LayoutIndex from "./components/Index.vue";
-// import { h } from "vue";
-// import MyComponent from "./components/MyComponent.vue";
-// import Comment from "./components/Comment.vue";
-// import Discussion from "./components/Discussion.vue";
 export default {
   extends: DefaultTheme,
   Layout: LayoutIndex,
@@ -35,6 +31,11 @@ export default {
     }
   },
 } satisfies Theme;
+
+// import { h } from "vue";
+// import MyComponent from "./components/MyComponent.vue";
+// import Comment from "./components/Comment.vue";
+// import Discussion from "./components/Discussion.vue";
 
 //   // Layout: () => {
 //   return h(DefaultTheme.Layout, null, {
