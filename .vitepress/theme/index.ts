@@ -11,20 +11,14 @@ import {
 
 import "uno.css";
 import busuanzi from "busuanzi.pure.js";
-import { h } from "vue";
-import MyComponent from "./components/MyComponent.vue";
-import Comment from "./components/Comment.vue";
+import LayoutIndex from "./components/Index.vue";
+// import { h } from "vue";
+// import MyComponent from "./components/MyComponent.vue";
+// import Comment from "./components/Comment.vue";
 // import Discussion from "./components/Discussion.vue";
 export default {
   extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-      "doc-before": () => h(MyComponent),
-      "doc-after": () => h(Comment),
-      // "doc-after": () => h(Discussion),
-    });
-  },
+  Layout: LayoutIndex,
   enhanceApp({ app, router, siteData }) {
     if (inBrowser) {
       registerAnalytics(siteIds);
@@ -41,3 +35,12 @@ export default {
     }
   },
 } satisfies Theme;
+
+//   // Layout: () => {
+//   return h(DefaultTheme.Layout, null, {
+//     // https://vitepress.dev/guide/extending-default-theme#layout-slots
+//     "doc-before": () => h(MyComponent),
+//     "doc-after": () => h(Comment),
+//     // "doc-after": () => h(Discussion),
+//   });
+// },

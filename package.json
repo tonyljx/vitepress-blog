@@ -10,6 +10,7 @@
     "vitepress": "^1.0.0-rc.40"
   },
   "dependencies": {
+    "@giscus/vue": "^2.4.0",
     "gitalk": "^1.8.0"
   }
 }
