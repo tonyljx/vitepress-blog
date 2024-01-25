@@ -3,7 +3,7 @@ import UnoCSS from "unocss/vite";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
+  title: "GPT航海",
   description: "A VitePress Site",
 
   themeConfig: {
@@ -22,15 +22,17 @@ export default defineConfig({
         ],
       },
       {
-        text: "GPT",
+        text: "GPT注册/升级",
+        items: [{ text: "BeWildCard升级GPT4🚀", link: "/gpt/gpt-plus" }],
+      },
+      {
+        text: "GPT使用指南",
         items: [
-          { text: "BeWildCard升级GPT4🚀", link: "/gpt/gpt-plus" },
           { text: "GPT使用指南👀", link: "/gpt/gpt-intro" },
           { text: "AI副业赚钱案例💰", link: "/gpt/gpt-money" },
           { text: "GPTs教程资源📚", link: "/gpt/gpts" },
           { text: "Prompt资源📚", link: "/gpt/prompt" },
         ],
-        docFooterText: "test",
       },
     ],
 

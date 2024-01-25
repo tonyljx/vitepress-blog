@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "GPT航海"
+  text: "AI相关知识分享"
+  tagline: Way to GPT
   image:
     src: /chatgpt.png
     alt: chatgpt

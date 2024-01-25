@@ -3,7 +3,8 @@ import { inBrowser } from "vitepress";
 /**
  * 统计站点的 ID 列表
  */
-export const siteIds = "579a1569d1b0e3308f449b0f3449c08e";
+// export const siteIds = "579a1569d1b0e3308f449b0f3449c08e";
+export const siteIds = "7a78fe8aadcda855386e33e7f1bcea67";
 
 declare global {
   interface Window {
