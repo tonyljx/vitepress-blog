@@ -34,3 +34,12 @@
   }
 }
 </style>
+
+
+<script setup  >
+import { data as posts } from "../utils/post.data.js"
+// import posts from '../utils/post.data.js'
+console.log(posts);
+
+
+</script>

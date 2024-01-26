@@ -1,6 +1,5 @@
 ---
-# 用于设置在首页展示的 精选文章，值越大展示越靠前
-sticky: 1
+date: 2024-01-23
 ---
 
 # bewildcard 介绍
@@ -19,7 +18,7 @@ sticky: 1
 
 ⭐️ [WildCard | 一分钟开卡，轻松订阅海外软件服务 (https://bewildcard.com/i/TONY66)](https://bewildcard.com/i/TONY66)
 
-![image-20240124014731638](bewildcard.assets/image-20240124014731638.png)
+![image-20240124014731638](https://chatrepo.top/image-20240124014731638.png)
 
 ## 重点解决的问题
 
@@ -33,7 +32,7 @@ sticky: 1
 - 服务齐全：目前我最常用的 openai 升级会员（GPT4），但是 bewildcard 也可以针对 midjourney（绘图），claude 等开通其他注册服务
 - 可支持支付宝: 对国内友好, 可用支付宝开通海外虚拟卡
 
-![image-20240124015144636](bewildcard.assets/image-20240124015144636.png)
+![image-20240124015144636](https://chatrepo.top/image-20240124015144636.png)
 
 ## 教程 todo
 
@@ -50,5 +49,5 @@ sticky: 1
    - 现金充值支持支付宝和银联进行充值, 这里演示支付宝的充值方式 3.金额最低可以选 10 美金
    - 这里放心,充值进去的钱是可以提现出来的, 亲测有效
 
-![gpts-chongzhi](img/gpts-chongzhi.png)
-![gpt-zhifubao](img/gpts-zhifubao.png)
+![gpts-chongzhi](https://chatrepo.top/gpts-chongzhi.png)
+![gpt-zhifubao](https://chatrepo.top/gpts-zhifubao.png)

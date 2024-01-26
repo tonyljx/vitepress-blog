@@ -12,20 +12,20 @@ hero:
   actions:
     - theme: brand
       text: chatgpt
-      link: /gpt/gpt-plus
+      link: /posts/gpt/gpt-plus
     - theme: alt
       text: 博客配置
-      link: /blog/
+      link: /posts/blog/
 features:
-  - icon: ⚡️
+  - icon: 💰
     title: GPT
     details: 了解GPT的原理, 使用GPT, 以及开通会员
-    link: /gpt/
+    link: /posts/gpt/
     linkText: 了解GPT
   - icon: 🖖
     title: 博客搭建
     details: 搭建一个实用且好看的博客
-    link: /blog/
+    link: /posts/blog/
     linkText: 博客搭建
   - icon: 🛠️
     title: 技术/副业

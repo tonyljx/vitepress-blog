@@ -33,11 +33,14 @@
 <script setup lang="ts">
 import { useData, useRouter } from 'vitepress'
 import dataPanel from "./DataPanel.vue"
+
 const { theme } = useData();
 
 const route = useRouter();
 
+
 // const sidebarItems = theme.value.sidebar.map(item => item.items).flat();
+
 
 const sidebarItems = theme.value.sidebar.flatMap(section => section.items.map(item => ({
   categoryText: section.text,

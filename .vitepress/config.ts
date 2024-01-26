@@ -11,7 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "开通Plus会员", link: "/gpt/gpt-plus" },
+      { text: "开通Plus会员", link: "/posts/gpt/gpt-plus" },
       {
         text: "统计",
         link: "https://umami.runningpig.top/share/CouKtS2S83QRdKdO/gpthanghai",
@@ -22,21 +22,21 @@ export default defineConfig({
       {
         text: "博客配置",
         items: [
-          { text: "Markdown Examples", link: "/blog/markdown-examples" },
-          { text: "Runtime API Examples", link: "/blog/api-examples" },
+          { text: "Markdown Examples", link: "/posts/blog/markdown-examples" },
+          { text: "Runtime API Examples", link: "/posts/blog/api-examples" },
         ],
       },
       {
         text: "GPT注册/升级",
-        items: [{ text: "BeWildCard升级GPT4🚀", link: "/gpt/gpt-plus" }],
+        items: [{ text: "BeWildCard升级GPT4🚀", link: "/posts/gpt/gpt-plus" }],
       },
       {
         text: "GPT使用指南",
         items: [
-          { text: "GPT使用指南👀", link: "/gpt/gpt-intro" },
-          { text: "AI副业赚钱案例💰", link: "/gpt/gpt-money" },
-          { text: "GPTs教程资源📚", link: "/gpt/gpts" },
-          { text: "Prompt资源📚", link: "/gpt/prompt" },
+          { text: "GPT使用指南👀", link: "/posts/gpt/gpt-intro" },
+          { text: "AI副业赚钱案例💰", link: "/posts/gpt/gpt-money" },
+          { text: "GPTs教程资源📚", link: "/posts/gpt/gpts" },
+          { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
         ],
       },
     ],
