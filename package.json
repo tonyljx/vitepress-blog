@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "docs:dev": "vitepress dev --mode dev",
+    "docs:build": "vitepress build --mode build",
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {

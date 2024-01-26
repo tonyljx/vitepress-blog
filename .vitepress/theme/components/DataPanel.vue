@@ -41,5 +41,5 @@ import { data as posts } from "../utils/post.data.js"
 // import posts from '../utils/post.data.js'
 console.log(posts);
 
-
+// console.log(location)
 </script>

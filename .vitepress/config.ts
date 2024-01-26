@@ -1,7 +1,11 @@
 import { defineConfig } from "vitepress";
 import UnoCSS from "unocss/vite";
 import taskLists from "markdown-it-task-checkbox";
-// import task from "markdown-it-task-lists";
+
+// const mode = process.argv[process.argv.length - 1];
+
+// console.log(mode);
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "GPT航海",
@@ -28,7 +32,7 @@ export default defineConfig({
       },
       {
         text: "GPT注册/升级",
-        items: [{ text: "BeWildCard升级GPT4🚀", link: "/posts/gpt/gpt-plus" }],
+        items: [{ text: "Chatgpt升级GPT Plus🚀", link: "/posts/gpt/gpt-plus" }],
       },
       {
         text: "GPT使用指南",
@@ -96,8 +100,6 @@ export default defineConfig({
       {
         async: "",
         defer: "",
-        // "data-website-id": `${process.env.UMAMI_WEBSITE_ID || ""}`,
-        // src: `${process.env.VITE_UMAMI_ENDPOINT || ""}`,
         "data-website-id": "2189df23-1170-4efd-8b63-b4d88049ce96",
         src: "https://umami.runningpig.top/script.js",
       },

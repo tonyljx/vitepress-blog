@@ -48,6 +48,9 @@ const sidebarItems = theme.value.sidebar.flatMap(section => section.items.map(it
   link: item.link
 })));
 
+console.log(sidebarItems);
+
+
 function onClick(url: string) {
   route.go(url)
 }
