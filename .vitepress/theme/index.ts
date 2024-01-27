@@ -16,7 +16,8 @@ export default {
   extends: DefaultTheme,
   Layout: LayoutIndex,
   enhanceApp({ app, router, siteData }) {
-    if (inBrowser) {
+    console.log(import.meta.env.DEV);
+    if (inBrowser && import.meta.env.PROD) {
       registerAnalytics(siteIds);
 
       window.addEventListener("hashchange", () => {
