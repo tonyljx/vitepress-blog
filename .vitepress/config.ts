@@ -104,9 +104,25 @@ export default defineConfig({
         src: "https://umami.runningpig.top/script.js",
       },
     ],
+    // ga
     [
       "script",
-      { id: "clarity" },
+      {
+        async: "",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-Z3GNE7VQRL",
+      },
+    ],
+    [
+      "script",
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-Z3GNE7VQRL');`,
+    ],
+    [
+      "script",
+      {},
       ` (function(c,l,a,r,i,t,y){
           c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
           t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
