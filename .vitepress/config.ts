@@ -37,7 +37,7 @@ export default defineConfig({
       {
         text: "GPT使用指南",
         items: [
-          { text: "GPT使用指南👀", link: "/posts/gpt/gpt-intro" },
+          { text: "GPT使用-提示工程最佳实践🤖", link: "/posts/gpt/gpt-intro" },
           { text: "AI副业赚钱案例💰", link: "/posts/gpt/gpt-money" },
           { text: "GPTs教程资源📚", link: "/posts/gpt/gpts" },
           { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
