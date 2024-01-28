@@ -9,7 +9,7 @@ import taskLists from "markdown-it-task-checkbox";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "GPT航海",
-  description: "A VitePress Site",
+  description: "ChatGPT指南、AI编程、副业、赚钱案例分析",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
