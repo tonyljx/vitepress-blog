@@ -4,9 +4,11 @@ date: 2024-01-25
 
 # 介绍 GPT 如何使用的文档
 
-[[toc]]
+::: info
+这篇文章主要介绍GPT是什么，以及如何更好的使用Prompt，本文参考自OPENAI的官方文档  [提示工程- OpenAI API --- Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering) 
+:::
 
-大家好，这次我来教大家如何使用 GPT
+[[toc]]
 
 ## 使用指南
 
@@ -17,10 +19,6 @@ date: 2024-01-25
 | zebra stripes |   are neat    |    $1 |
 
 ## 结语
-
-::: info
-This is an info box.
-:::
 
 ::: tip
 This is a tip.
@@ -37,3 +35,14 @@ This is a details block.
   </li>
 </ul>
 ```
+
+
+
+## 参考链接
+
+[快速工程 - OpenAI API --- Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
+
+
+
+
+

@@ -5,7 +5,9 @@ date: 2024-01-23
 # GPT Plus升级
 
 :::warning URL⭐️
-感兴趣的朋友可以通过这个链接进行开通 GPT4 以及相关服务 [https://bewildcard.com/](https://bewildcard.com/i/TONY66)
+感兴趣的朋友可以通过这个链接进行开通 GPT4 以及相关服务，会有2美金的优惠
+
+[https://bewildcard.com/](https://bewildcard.com/i/TONY66)
 :::
 
 [[toc]]
