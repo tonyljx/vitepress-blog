@@ -76,7 +76,7 @@ OnlyFans 是一个日益受欢迎的内容订阅服务平台，使创作者能�
 
 ### 一、ChatGPT 进阶使用指南
 
-[国内如何注册、获取 ChatGPT 账号？](../gpt/gpt-intro)
+[GPT 使用最佳实践-Prompt 优化](../gpt/gpt-intro)
 
 ### 二、ChatGPT 充值升级 Plus
 
