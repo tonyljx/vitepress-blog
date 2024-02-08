@@ -46,6 +46,10 @@ export default defineConfig({
           { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
         ],
       },
+      {
+        text: "小产品",
+        items: [{ text: "面试高频算法网站", link: "/posts/blog/leetcode" }],
+      },
     ],
 
     socialLinks: [
