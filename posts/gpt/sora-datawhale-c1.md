@@ -42,5 +42,36 @@ source： [【AI+X 组队学习】Sora 原理与技术实战：Sora 技术路径
 
 训练流程：
 
-- visual encoder
--
+- visual encoder：原始数据
+  - 术语：VAE 编码器（压缩到低维空间），潜空间（latent space）
+- diffusion transformer：文本语义到图像雨衣
+- transformer decoder：通过 vae 解码器恢复成视频数据
+
+详细：
+
+- 视频数据统一表达：
+  - `N * h * W` 的图像，通过 Encoder 切分成 patch，然后编程一维享乐
+  - 想象：立方体 -> 打平的一条线
+
+> encoder 的时候，既有时间信息（立方体），也有空间信息（对相邻 x 个取平均，可以记录位置信息）
+
+bg：Diffusion 知识补充
+
+- diffusion：从噪声走构建样本
+- 相关论文：DDPM（分步构建）
+- 流程
+  - encoder
+  - noise 加噪
+  - Unet
+- 训练：Unet（网络模型结构，规定模型规模）DNN 作为骨架
+
+---
+
+核心技术拆解
+
+- Vit：vision transformer，图片用 patch 变换，patch 转换成一维向量作为 transformer 输入
+
+  - 处理图片
+
+- Vit + 时间序列
+  - 视频数据包含时间序列
