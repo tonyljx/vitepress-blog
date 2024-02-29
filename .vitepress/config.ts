@@ -48,6 +48,16 @@ export default defineConfig({
         ],
       },
       {
+        text: "Sora",
+        items: [
+          { text: "如何使用Sora🌊", link: "/posts/gpt/sora" },
+          {
+            text: "Datawhale学习笔记-C1",
+            link: "/posts/gpt/sora-datawhale-c1",
+          },
+        ],
+      },
+      {
         text: "小产品",
         items: [{ text: "面试高频算法网站", link: "/posts/blog/leetcode" }],
       },
