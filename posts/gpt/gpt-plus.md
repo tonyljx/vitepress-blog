@@ -1,5 +1,6 @@
 ---
 date: 2024-01-23
+description: 2024最新GPT4升级方法, 手把手小白教学GPT4升级
 ---
 
 # GPT Plus 升级

@@ -1,5 +1,6 @@
 ---
 date: 2024-01-24
+description: AI副业赚钱例子分享
 ---
 
 # AI 副业赚钱案例参考
@@ -7,7 +8,7 @@ date: 2024-01-24
 ::: tip
 这是一个用 AI 来做副业的仓库, 通过分析一些现在能有盈利的 AI 的思路, 开阔 AI 变现的眼界
 
-想参考更多GPT相关的使用指南，以及AI副业赚钱案例，欢迎浏览 [GPT航海 (gpthanghai.com)](https://gpthanghai.com/) 
+想参考更多 GPT 相关的使用指南，以及 AI 副业赚钱案例，欢迎浏览 [GPT 航海 (gpthanghai.com)](https://gpthanghai.com/)
 
 :::
 

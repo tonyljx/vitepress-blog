@@ -67,7 +67,7 @@ bg：Diffusion 知识补充
 
 ---
 
-核心技术拆解
+核心技术拆解哦哦哦李可开票；
 
 - Vit：vision transformer，图片用 patch 变换，patch 转换成一维向量作为 transformer 输入
 

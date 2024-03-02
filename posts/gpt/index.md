@@ -1,5 +1,6 @@
 ---
 date: 2024-01-25
+description: GPT4充值, GPT注册账号, 使用以及利用GPT进行副业赚钱
 ---
 
 # GPT 学习使用
