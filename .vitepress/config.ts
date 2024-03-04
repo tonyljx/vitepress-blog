@@ -22,13 +22,13 @@ export default defineConfig({
     ],
 
     sidebar: [
-      {
-        text: "博客配置",
-        items: [
-          { text: "Markdown Examples", link: "/posts/blog/markdown-examples" },
-          { text: "Runtime API Examples", link: "/posts/blog/api-examples" },
-        ],
-      },
+      // {
+      //   text: "博客配置",
+      //   items: [
+      //     { text: "Markdown Examples", link: "/posts/blog/markdown-examples" },
+      //     { text: "Runtime API Examples", link: "/posts/blog/api-examples" },
+      //   ],
+      // },
       {
         text: "会员服务升级",
         items: [
@@ -40,6 +40,7 @@ export default defineConfig({
         text: "GPT使用指南",
         items: [
           { text: "如何使用Sora🌊", link: "/posts/gpt/sora" },
+          { text: "深度对比GPT4vs3.5 附常用场景", link: "/posts/gpt/gpt4-3.5" },
           { text: "GPT使用-提示工程最佳实践🤖", link: "/posts/gpt/gpt-intro" },
           { text: "AI副业赚钱案例💰", link: "/posts/gpt/gpt-money" },
           { text: "GPTs教程资源📚", link: "/posts/gpt/gpts" },
