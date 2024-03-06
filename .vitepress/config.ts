@@ -39,16 +39,15 @@ export default defineConfig({
       {
         text: "GPT使用指南",
         items: [
-          { text: "如何使用Sora🌊", link: "/posts/gpt/sora" },
           { text: "深度对比GPT4vs3.5 附常用场景", link: "/posts/gpt/gpt4-3.5" },
+          { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
           { text: "GPT使用-提示工程最佳实践🤖", link: "/posts/gpt/gpt-intro" },
           { text: "AI副业赚钱案例💰", link: "/posts/gpt/gpt-money" },
           { text: "GPTs教程资源📚", link: "/posts/gpt/gpts" },
-          { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
         ],
       },
       {
-        text: "Sora",
+        text: "Sora专栏-GPT4生成视频",
         items: [
           { text: "如何使用Sora🌊", link: "/posts/gpt/sora" },
           {

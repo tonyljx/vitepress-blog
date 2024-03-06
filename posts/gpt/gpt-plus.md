@@ -5,11 +5,14 @@ description: 2024最新GPT4升级方法, 手把手小白教学GPT4升级
 
 # GPT Plus 升级
 
-:::warning URL⭐️
-感兴趣的朋友可以通过这个链接进行开通 GPT4 以及相关服务，会有 2 美金的优惠
+:::warning Note✨✨
 
-[https://bewildcard.com/](https://bewildcard.com/i/TONY66)
-:::
+- 如果有朋友想要购买 **GPT4 成品账号**，或者代注册 GPT3.5 的账号，都可以加我微信咨询
+
+WX：runningdogg
+
+- GPT4 升级以及相关服务(youtube 付费等)，会有 2 美金的优惠：[https://bewildcard.com/](https://bewildcard.com/i/TONY66)
+  :::
 
 [[toc]]
 
