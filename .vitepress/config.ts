@@ -130,7 +130,7 @@ export default defineConfig({
       {
         defer: "",
         "data-domain": "gpthanghai.com",
-        src: "http://47.93.43.28:8000/js/script.js",
+        src: "http://117.72.9.102:8078/js/script.js",
       },
     ],
     // ga
