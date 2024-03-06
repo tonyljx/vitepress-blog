@@ -44,6 +44,9 @@ export default defineConfig({
           { text: "GPT使用-提示工程最佳实践🤖", link: "/posts/gpt/gpt-intro" },
           { text: "AI副业赚钱案例💰", link: "/posts/gpt/gpt-money" },
           { text: "GPTs教程资源📚", link: "/posts/gpt/gpts" },
+          { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
+          { text: "Claude3✨", link: "/posts/gpt/claude3" },
+          { text: "Claude3-视觉 API 评估🧐", link: "/posts/gpt/claude3-use" },
         ],
       },
       {
