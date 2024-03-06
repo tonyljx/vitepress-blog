@@ -124,6 +124,15 @@ export default defineConfig({
         src: "https://umami.runningpig.top/script.js",
       },
     ],
+    // plausible analytics 20240307
+    [
+      "script",
+      {
+        defer: "",
+        "data-domain": "gpthanghai.com",
+        src: "http://47.93.43.28/js/script.js",
+      },
+    ],
     // ga
     [
       "script",
