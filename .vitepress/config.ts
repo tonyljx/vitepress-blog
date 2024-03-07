@@ -39,7 +39,20 @@ export default defineConfig({
       {
         text: "GPT使用指南",
         items: [
+          {
+            text: "大模型术语扫盲",
+            link: "/posts/gpt/glossary-intro",
+          },
+          {
+            text: "大模型入门教程1-提示词入门篇",
+            link: "/posts/gpt/prompt/prompt-intro",
+          },
+          {
+            text: "大模型入门使用教程2-提示词工程",
+            link: "/posts/gpt/prompt/prompt-p2",
+          },
           { text: "深度对比GPT4vs3.5 附常用场景", link: "/posts/gpt/gpt4-3.5" },
+
           { text: "Prompt资源📚", link: "/posts/gpt/prompt" },
           { text: "GPT使用-提示工程最佳实践🤖", link: "/posts/gpt/gpt-intro" },
           { text: "AI副业赚钱案例💰", link: "/posts/gpt/gpt-money" },
