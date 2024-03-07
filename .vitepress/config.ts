@@ -125,14 +125,14 @@ export default defineConfig({
       },
     ],
     // plausible analytics 20240307
-    // [
-    //   "script",
-    //   {
-    //     defer: "",
-    //     "data-domain": "gpthanghai.com",
-    //     src: "http://117.72.9.102:8078/js/script.js",
-    //   },
-    // ],
+    [
+      "script",
+      {
+        defer: "",
+        "data-domain": "gpthanghai.com",
+        src: "https://plausible-analytics-production-6a24.up.railway.app/js/script.js",
+      },
+    ],
     // ga
     [
       "script",
