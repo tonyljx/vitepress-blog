@@ -14,19 +14,19 @@ hero:
       text: chatgpt
       link: /posts/gpt/gpt-plus
     - theme: alt
-      text: 博客配置
-      link: /posts/blog/
+      text: GPT使用指南
+      link: /posts/gpt/glossary-intro
 features:
   - icon: 💰
     title: GPT
-    details: 了解GPT的原理, 使用GPT, 以及开通会员
+    details: 了解GPT的原理, 使用GPT4, 以及开通GPT会员/SORA
     link: /posts/gpt/
     linkText: 了解GPT
   - icon: 🖖
-    title: 博客搭建
-    details: 搭建一个实用且好看的博客
-    link: /posts/blog/
-    linkText: 博客搭建
+    title: 账号注册分享
+    details: 常见账号注册方法分享 GPT4/onlyfans/sora
+    link: /posts/blog/onlyfans
+    linkText: 账号注册方法
   - icon: 🛠️
     title: 技术/副业
     details: 记录工作中遇到的技术问题以及技术变现副业
