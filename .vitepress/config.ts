@@ -35,6 +35,7 @@ export default defineConfig({
         items: [
           { text: "Chatgpt升级GPT Plus🚀", link: "/posts/gpt/gpt-plus" },
           { text: "Onlyfans开通指南🤣", link: "/posts/blog/onlyfans" },
+          { text: "Onlyfans常见问题解答🤣", link: "/posts/blog/onlyfans-faq" },
         ],
       },
       {
