@@ -17,8 +17,8 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "开通Plus会员", link: "/posts/gpt/gpt-plus" },
       {
-        text: "统计",
-        link: "https://umami.runningpig.top/share/CouKtS2S83QRdKdO/gpthanghai",
+        text: "AI Cartoon Generator",
+        link: "https://cartoongen.com/",
       },
     ],
 
