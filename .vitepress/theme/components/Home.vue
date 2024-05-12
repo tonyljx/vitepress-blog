@@ -26,6 +26,11 @@
         </div>
       </div>
 
+      <h2 class="mb-3 text-xl font-semibold mt-6">友链🔗</h2>
+      <div class="flex flex-cal gap-lg">
+        <a href="https://aliyuntm.com/">ChatGPT中文学习网站</a>
+      </div>
+
     </div>
   </div>
 </template>
