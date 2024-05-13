@@ -173,5 +173,13 @@ export default defineConfig({
           y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
       })(window, document, "clarity", "script", "kshjatzcss");`,
     ],
+    // plausible
+    [
+      "script",
+      {
+        async: "",
+        src: "https://plausiblepig.zeabur.app/js/script.js",
+      },
+    ],
   ],
 });
