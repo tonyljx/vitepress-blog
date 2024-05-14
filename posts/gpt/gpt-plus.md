@@ -11,7 +11,7 @@ description: 2024最新GPT4升级方法, 手把手小白教学GPT4升级
 
 WX：runningdogg
 
-- GPT4 升级以及相关服务(youtube 付费等)，会有 2 美金的优惠：[https://bewildcard.com/](https://bewildcard.com/i/TONY66)
+- GPT4 升级以及相关服务(youtube 付费等)，会有 2 美金的优惠：[https://bewildcard.com/](https://wildcard.com.cn/i/TONY66)
   :::
 
 [[toc]]
@@ -92,8 +92,6 @@ PS:如果不会操作，也可以提供代充、GPT 账号注册等服务，有�
 
 **点击体验，wildcard 服务点击去开通**
 
-
-
 第一步也就是先进行 wildcard 开卡，这里可以通过这个链接注册，获取 2 美金的优惠 https://bewildcard.com/i/TONY66
 
 步骤很简单，而且有人工客服
@@ -101,17 +99,11 @@ PS:如果不会操作，也可以提供代充、GPT 账号注册等服务，有�
 - 输入手机号
 - 支付宝验证
 
-
-
 ![image-20240514113720827](https://image.chatrepo.top/image-20240514113720827.png)
 
 ![https://image.chatrepo.top/image-20240514113757054.png](https://image.chatrepo.top/image-20240514113736932.png)
 
-
-
 <img src="https://image.chatrepo.top/image-20240514113816863.png" alt="image-20240514113816863" style="zoom:50%;" />
-
-
 
 <img src="https://image.chatrepo.top/202401270107666.png" alt="image-20240127010656867" style="zoom:50%;" />
 
@@ -126,10 +118,6 @@ PS:如果不会操作，也可以提供代充、GPT 账号注册等服务，有�
 
 ![gpts-chongzhi](https://chatrepo.top/gpts-chongzhi.png)
 ![gpt-zhifubao](https://chatrepo.top/gpts-zhifubao.png)
-
-
-
-
 
 ### Step3 ChatGPT 升级
 
