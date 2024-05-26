@@ -20,6 +20,10 @@ export default defineConfig({
         text: "AI Cartoon Generator",
         link: "https://cartoongen.com/",
       },
+      {
+        text: "Suno AI Music",
+        link: "https://sunoai-music.com/",
+      },
     ],
 
     sidebar: [
