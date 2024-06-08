@@ -24,6 +24,10 @@ export default defineConfig({
         text: "Suno AI Music",
         link: "https://sunoai-music.com/",
       },
+      {
+        text: "Kling AI",
+        link: "https://klingai.org/",
+      },
     ],
 
     sidebar: [
